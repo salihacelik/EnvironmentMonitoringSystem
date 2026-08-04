@@ -1,0 +1,22 @@
+ORTAM ANALİZ SİTEMİ
+Kapalı ortam koşullarını takip eden bit IoT izleme sistemi. Ortamdaki;
+-sıcaklık
+-basınç
+-nem
+-ses
+-oksijen
+-karbondioksit
+-duman
+-voltaj değerlerini ölçere her 30 saniyede bir kontrol eder. Toplanan veriler grafikler üzerinden canlı
+olarak kontrol edilir ve grafiklerde gösterilir. Herhangi bir parametre normal sınırların dışına çıkarsa
+sistem anında uyarı gönderir.
+Bu sistem, ortam koşullarının kritik olduğu ve sürekli izlenmesi gereken kapalı alanlarda kullanılır.
+-Sistem ve sunucu Odaları
+-Fabrika ve Endüstriyel Depolar
+-Laboratuvar ve İlaç Depoları
+-Kapalı Tarım Alanları ve Seralar
+Sistemin çalışması için gereken gereksinimler
+-Veri Kaynağı
+-Backend (.NET)
+-Veritabanı (PostgreSQL)
+-Frontend(Angular)
