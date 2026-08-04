@@ -1,0 +1,15 @@
+C:\Users\hp\EnvironmentMonitoringSystem\bin\Debug\net9.0\EnvironmentMonitoringSystem.exe
+C:\Users\hp\EnvironmentMonitoringSystem\bin\Debug\net9.0\EnvironmentMonitoringSystem.deps.json
+C:\Users\hp\EnvironmentMonitoringSystem\bin\Debug\net9.0\EnvironmentMonitoringSystem.runtimeconfig.json
+C:\Users\hp\EnvironmentMonitoringSystem\bin\Debug\net9.0\EnvironmentMonitoringSystem.dll
+C:\Users\hp\EnvironmentMonitoringSystem\bin\Debug\net9.0\EnvironmentMonitoringSystem.pdb
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.AssemblyInfoInputs.cache
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.AssemblyInfo.cs
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.sourcelink.json
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.dll
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\refint\EnvironmentMonitoringSystem.dll
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.pdb
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\EnvironmentMonitoringSystem.genruntimeconfig.cache
+C:\Users\hp\EnvironmentMonitoringSystem\obj\Debug\net9.0\ref\EnvironmentMonitoringSystem.dll
